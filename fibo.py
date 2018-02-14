@@ -1,6 +1,7 @@
 # Execute with Python 3 or export UTF for Spanish Characters
 #
 # Team Members:
+# Gonzalez Valdez Bryan
 # Lopez Santibañez Jimenez Luis Gerardo
 #
 from math import sqrt
