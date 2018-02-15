@@ -4,6 +4,7 @@
 # Gonzalez Valdez Bryan
 # Lopez Santibanez Jimenez Luis Gerardo
 # Hernandez Garcia Israel
+# Moreno Guerra Marco Antonio
 #
 from math import sqrt
 print("Dada la funcion f=(1+5^(1/2))^n-(1-5^(1/2))^n)/(2^n x 5^(1/2))\n")
