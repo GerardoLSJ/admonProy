@@ -5,8 +5,10 @@
 # Lopez Santibanez Jimenez Luis Gerardo
 # Hernandez Garcia Israel
 # Moreno Guerra Marco Antonio
+# Padilla Castillo Aaron Samir 
 #
 from math import sqrt
+print("PROGRAMA\n")
 print("Dada la funcion f=(1+5^(1/2))^n-(1-5^(1/2))^n)/(2^n x 5^(1/2))\n")
 print("y numero n, este programa obtiene la f(n) asociada.\n")
 def F(n):
