@@ -3,6 +3,7 @@
 # Team Members:
 # Gonzalez Valdez Bryan
 # Lopez Santibañez Jimenez Luis Gerardo
+# Moreno Guerra Marco Antonio
 #
 from math import sqrt
 def F(n):
